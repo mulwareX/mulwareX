@@ -21,7 +21,7 @@
 </p>
 <ul>
   <li><b>🌍 Website: </b> <a href="https://mulwarex.github.io" target="_blank">https://mulwarex.github.io</a></li>
-  <li><b>🚀 Discord: </b> <a href="#" target="_blank">mulware</a></li>
+  <li><b>🚀 Discord: </b> <a href="https://discord.com/users/1046142763835588700" target="_blank">mulware</a></li>
   <li><b>📈 Linkedin: </b> <a href="https://pk.linkedin.com/in/ahmed-raza-327aaa2b3" target="_blank">https://pk.linkedin.com/in/ahmed-raza-327aaa2b3</a></li>
   <li><b>💻 GitHub: </b> <a href="https://github.com/mulwarex" target="_blank">@mulwarex</a></li>
   <li><b>🎯 Specialization: </b> Red Team Operations & Malware Development</li>
