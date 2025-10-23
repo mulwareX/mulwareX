@@ -14,6 +14,7 @@
 </p>
 <p align="center">
   <img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="100" height="100" alt="PNPT" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jDDzAEKVbm3AuG1YElz0q_nfFbtXToqQ1h-Iwv76gx1Vs_yAJWby3yeJtyK2R3t25w4&usqp=CAU" width="100" height="100" alt="OSCP" />
   <img src="https://avatars.githubusercontent.com/u/121844819?s=200&v=4" width="100" height="100" alt="MALDEV" />
   <img src="https://www.bencteux.fr/img/crto.webp" width="100" height="100" alt="CRTO" />
   <img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/544/ccna-logo-544x306.png" width="100" height="100" alt="CCNA" />
