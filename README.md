@@ -80,13 +80,9 @@ Currently researching and developing:
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mulwarex&show_icons=true&theme=radical&count_private=true">
-
-<img src="https://streak-stats.demolab.com?user=mulwarex&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulwarex&layout=compact&theme=radical">
-
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mulwarex?cardType=level&theme=dark&preferLogin=false" />
+  </a>
 </p>
 
 ---
