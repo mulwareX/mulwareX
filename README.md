@@ -43,12 +43,21 @@ I enjoy building offensive security tools and researching new ways to bypass mod
 
 # 🎓 Certifications
 
+<h2 align="center"> 🎓 Certifications </h2>
+
 <p align="center">
 
-<img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="100">
-<img src="https://www.bencteux.fr/img/crto.webp" width="100">
-<img src="https://avatars.githubusercontent.com/u/121844819?s=200&v=4" width="100">
-<img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/544/ccna-logo-544x306.png" width="100">
+<img src="https://images.credly.com/images/2d9e7b18-3f1a-4d8e-9c9e-5dce96b8a5f1/blob" width="100" height="100" alt="OSCP" />
+
+<img src="https://www.offsec.com/wp-content/uploads/2023/04/oscp-plus.png" width="100" height="100" alt="OSCP+" />
+
+<img src="https://www.bencteux.fr/img/crto.webp" width="100" height="100" alt="CRTO" />
+
+<img src="https://certifications.tcm-sec.com/wp-content/uploads/2024/08/PNPT.webp" width="100" height="100" alt="PNPT" />
+
+<img src="https://avatars.githubusercontent.com/u/121844819?s=200&v=4" width="100" height="100" alt="MALDEV" />
+
+<img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/photography/learn/544/ccna-logo-544x306.png" width="100" height="100" alt="CCNA" />
 
 </p>
 
