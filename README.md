@@ -62,6 +62,8 @@ I enjoy building offensive security tools and researching new ways to bypass mod
 </p>
 
 - **PNPT — Practical Network Penetration Tester**
+- **OSCP**
+- **OSCP +**
 - **CRTO — Certified Red Team Operator**
 - **Malware Development Certification**
 - **Cisco Ethical Hacker**
