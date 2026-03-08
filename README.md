@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Raza-blue?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/ahmed-raza-327aaa2b3)
 [![GitHub](https://img.shields.io/badge/GitHub-mulwarex-black?style=for-the-badge&logo=github)](https://github.com/mulwarex)
 
-![Views](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=mulwarex&theme=dark)
+[![Views](https://u8views.com/api/v1/github/profiles/179304663/views/day-week-month-total-count.svg)](https://u8views.com/github/mulwareX)
 
 ---
 
