@@ -35,11 +35,6 @@ I enjoy building offensive security tools and researching new ways to bypass mod
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp)
 
-### ⚙️ Development
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 
 ### 🔐 Security Focus
 - Red Team Infrastructure
@@ -78,6 +73,7 @@ Currently researching and developing:
 - **AV / AMSI bypass techniques**
 - **Advanced malware loaders**
 - **Post exploitation tooling**
+- **Exploits**
 
 ---
 
