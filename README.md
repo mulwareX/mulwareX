@@ -47,7 +47,7 @@ I enjoy building offensive security tools and researching new ways to bypass mod
 
 <p align="center">
 
-<img src="https://images.credly.com/images/2d9e7b18-3f1a-4d8e-9c9e-5dce96b8a5f1/blob" width="100" height="100" alt="OSCP" />
+<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/twitter_thumb_201604_image.png" width="100" height="100" alt="OSCP" />
 
 <img src="https://www.offsec.com/wp-content/uploads/2023/04/oscp-plus.png" width="100" height="100" alt="OSCP+" />
 
